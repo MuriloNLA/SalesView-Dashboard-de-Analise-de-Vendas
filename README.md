@@ -74,7 +74,7 @@ Aba: `Pedidos de venda`
 ## Screenshots
 
 ### Resumo por Representante
-![Dashboard Representante](screenshots/Dashboard_.png)
+![Dashboard Representante](screenshots/Dashboard.png)
 
 ### Resumo por Regiao e Totais Gerais
 ![Dashboard Regiao](screenshots/Dashboard2.png)
